@@ -1,0 +1,6 @@
+E:\StudentInfoManagementApp\StudentInfoManagementApp\bin\StudentInfoManagementApp.dll.config
+E:\StudentInfoManagementApp\StudentInfoManagementApp\bin\StudentInfoManagementApp.dll
+E:\StudentInfoManagementApp\StudentInfoManagementApp\bin\StudentInfoManagementApp.pdb
+E:\StudentInfoManagementApp\StudentInfoManagementApp\obj\Debug\StudentInfoManagementApp.csprojResolveAssemblyReference.cache
+E:\StudentInfoManagementApp\StudentInfoManagementApp\obj\Debug\StudentInfoManagementApp.dll
+E:\StudentInfoManagementApp\StudentInfoManagementApp\obj\Debug\StudentInfoManagementApp.pdb
